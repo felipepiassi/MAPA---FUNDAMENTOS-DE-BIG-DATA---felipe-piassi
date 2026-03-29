@@ -1,7 +1,7 @@
 Big Data E-commerce Sync: Personalização e Logística
 Este projeto é uma simulação de um ecossistema de Big Data. O objetivo é demonstrar como o processamento de grandes volumes de dados pode otimizar a logística e personalizar a experiência do usuário.
 
-📋  Projeto
+  Projeto
 A empresa enfrentava dificuldades com sistemas tradicionais (Data Warehouses) que não processavam dados em tempo hábil. Os principais problemas eram:
 
 Logística ineficiente: Centros de Distribuição centralizados e atrasos na reposição.
@@ -10,7 +10,6 @@ Falta de personalização: Clientes recebendo ofertas irrelevantes.
 
 Dados Silados: Informações de lojas físicas, site e redes sociais não integradas.
 
-🛠️ Tecnologias e Conceitos Aplicados
 Linguagem: Python 3.x
 
 Manipulação de Dados: Pandas & Numpy (Simulando motores de processamento como Spark/MapReduce)
